@@ -10,7 +10,7 @@ Este teste foi executado não utilizando o comando encrypter.py ou decrypter.py
 Infelizmente não consegui executar as ordens de processo que o professor apresentou, dando-me sempre um erro ao tentar incriptar o ficheiro .txt, 
 não tendo qualquer experiência em python, procurei outras soluções para chegar ao mesmo fim.
 
-                                                   ** INSTRUÇÕES**
+                                                   **INSTRUÇÃO**
 Para me auxiliar neste processo acessei e baixei um arquivo no github link abaixo
 https://github.com/nodesocket/cryptr
 
