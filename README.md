@@ -3,7 +3,7 @@
                                                         
 Este desafio de projeto faz parte do conteúdo abordado pelo Santander Bootcamp Cibersegurança, realizado pela DIO em parceria com o Santander Universidades.
 
-Objectivo: incriptar e desincriptar um ficheiro .txt. de forma a o tornar mais seguro usando uma senha de acesso.
+Objectivo: encriptar e desincriptar um ficheiro .txt. de forma a o tornar mais seguro usando uma senha de acesso.
 
                                                     **ATENCÃO** 
 Este teste foi executado não utilizando o comando encrypter.py ou decrypter.py
@@ -30,9 +30,9 @@ sudo ln -s "$PWD"/cryptr/cryptr.bash /usr/local/bin/cryptr
 
 ![image](https://github.com/user-attachments/assets/c4c4ef5d-ffe7-4a52-8225-f44d16277fde)
 
-No terminal, para incriptar o ficheiro iremos simplesmente executar o comando "**cryptr encrypt file_name**" e designar uma palavra passe para o nosso ficheiro, isto o tornará mais seguro.
+No terminal, para encriptar o ficheiro iremos simplesmente executar o comando "**cryptr encrypt file_name**" e designar uma palavra passe para o nosso ficheiro, isto o tornará mais seguro.
 O ficheiro ira ter a terminação de .aes  
-Para verificar se o ficheiro foi incriptado, podemos o abrir com o comando "cat file_name".
+Para verificar se o ficheiro foi encriptado, podemos o abrir com o comando "cat file_name".
 
 ![image](https://github.com/user-attachments/assets/5b692847-419a-46ec-b38e-bc765f039be0)
 
@@ -40,7 +40,7 @@ Para verificar se o ficheiro foi incriptado, podemos o abrir com o comando "cat 
 
 ![image](https://github.com/user-attachments/assets/7ee98339-8018-4806-b53a-046121f3a460)
 
-**Para desincriptar o ficheiro iremos utilizar o comando decrypt**
+**Para desencriptar o ficheiro iremos utilizar o comando decrypt**
 
 ![image](https://github.com/user-attachments/assets/bb74bd64-6b38-44d3-be50-bd166f69434c)
 
